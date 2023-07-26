@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abrhamgg
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Software Engineering @ African Leadership Group
+- 🌱 I’m a Software Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abrhamgg@gmail.com
 
